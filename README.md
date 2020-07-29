@@ -1,6 +1,7 @@
 # 1er-Proyecto-Ciencia-de-Datos
 
 Fecha de entrega: 29 de julio de 2020, 22.00
+
 En el primer avance del proyecto asegúrese de:
     1. Utilizar al menos dos datasets
     2. Verificar que sus datos tengan información de tiempo y de espacio (ej: fecha,
